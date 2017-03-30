@@ -1,7 +1,7 @@
 ---
 title       : Lab 1 - Intro to git
 description : Questions for Lab 1
-
+free_preview: true
 --- type:RStudioMultipleChoiceExercise xp:50 skills:1 key:02d4222b54
 ##  Question 1
 <strong>Follow the directions in the console to open the R Markdown file:</strong>
